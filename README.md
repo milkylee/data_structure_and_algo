@@ -27,7 +27,7 @@ All activities will be stored and checked from here.
 * Open cmd in Windows or if you're using Visual Studio Code, Go to Terminal->New Terminal type in terminal instructions below
 * Clone the repository for first time use or anywhere you want to run the program or retrieve your code
 ```
-git clone https://github.com/milkylee/webdev.git
+git clone https://github.com/milkylee/data_structure_and_algo.git
 ```
 * Checkout to new branch refering to your activity name if branch is not yet available 
 ```
