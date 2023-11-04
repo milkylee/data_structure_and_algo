@@ -1,0 +1,4 @@
+#Exercise 9: Pattern matching algorithm
+#A pattern matching algorithm is used to determine the index positions where a given pattern string (P) is matched in a text string (T). It returns "pattern not found" if the pattern does not match in the text string. For example, for the given string (s) = "I am a software engineer" , and the pattern (p)= "software engineer", the pattern matching algorithm returns the index position where the pattern is matched in the text string.
+
+#1. Use brute-force algorithm to get the position of the pattern string (p) = acbcac in a text string (T) = acbcabccababcaacbcac
